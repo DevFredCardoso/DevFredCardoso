@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Fred Gabriel, tenho 18 anos e sou de Brasilia-DF. Sonho em me tornar um grande Desenvolvedor! Sempre querendo Melhorar!
+Me chamo Fred Gabriel, tenho 18 anos e sou de Brasilia-DF. Meu objetivo é crescer como Desenvolvedor Full Stack, trabalhando com tecnologias modernas e ajudando a criar soluções úteis, tenho facilidade para trabalhar em equipe, sou comunicativo e sempre procuro evoluir com feedbacks.
+
 
 <p align="left">
     <a href="https://www.linkedin.com/in/fred-cardoso0171/">

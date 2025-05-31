@@ -1,4 +1,4 @@
-# 👨‍💻 Fred Cardoso
+    # 👨‍💻 Fred Cardoso
 
 **`Desenvolvedor Iniciante`**
 
@@ -21,6 +21,7 @@ Me chamo Fred Gabriel, tenho 18 anos e sou de Brasilia-DF. Sonho em me tornar um
 
 ---
 
+<img src="https://raw.githubusercontent.com/devfredcardoso/DevFredCardoso/output/snake.svg" alt="Snake animation" />
 
 ### 🤖 Linguagens e Tecnologias
 
